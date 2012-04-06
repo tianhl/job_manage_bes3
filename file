@@ -1,0 +1,10 @@
+git add	PDirMgr.py
+git add	PScptProc.py
+git add	PSubJob.py
+git add	PTrkJob.py
+git add	README
+git add	checkFile.py
+git add	checkjobs.py
+git add	file
+git add	recbb.py
+git add	resubjobs.py
